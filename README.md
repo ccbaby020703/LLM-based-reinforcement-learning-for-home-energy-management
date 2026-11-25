@@ -1,5 +1,5 @@
 # Kidmind Household Energy Management Module
-Global Runner-Up, iFLYTEK AI Developer Competition (AI Agent Innovation Application)
+Global Runner-Up, iFLYTEK AI Developer Competition (AI Agent Innovation Application 2026)
 https://github.com/Hector-sau/Livingmind.git 
 ## 1. Project Overview
 
