@@ -1,5 +1,6 @@
 # Kidmind Household Energy Management Module
-
+Global Runner-Up, iFLYTEK AI Developer Competition (AI Agent Innovation Application)
+https://github.com/Hector-sau/Livingmind.git 
 ## 1. Project Overview
 
 This project is a reinforcement learning demo for a Home Energy Management System (HEMS).
